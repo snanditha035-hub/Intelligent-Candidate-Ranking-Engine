@@ -1,0 +1,26 @@
+Company : TechNova Pvt Ltd
+
+Position : AI Engineer
+
+Required Degree:
+B.Tech Electronics and Communication Engineering
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Deep Learning
+Embedded Systems
+
+Minimum Experience:
+1 Year
+
+Preferred Certifications:
+Python Programming
+AWS Cloud
+
+Soft Skills:
+Communication
+Leadership
+Problem Solving
+
